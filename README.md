@@ -3,6 +3,8 @@
 # Deploy:
 
 > git clone https://github.com/Study-GoIT/Module01-Maven.git
+>
+> cd Module01-Maven
 > 
 > mvn clean install
 > 
